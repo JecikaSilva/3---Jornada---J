@@ -1,0 +1,33 @@
+Header {
+	background:#B0C4DE;
+}
+
+nav li{
+	display:  inline;
+	margin: 0 0 0 15px;
+	position: relative;
+	bottom: 80px;
+}
+nav a {
+	text-transform: uppercase;
+	color: #000000 ;
+	font-weight: bold;
+	font-size: 22pix;
+	text-decoration: none;
+}
+
+nav {
+	position: absolute;
+	top: 110 px;
+	right: 0;
+}
+.logo{
+	width: 20%;
+}
+.caixa {
+	position: relative;
+	width: 940px;
+	right: 0 auto;
+	left: 90px;
+
+}
